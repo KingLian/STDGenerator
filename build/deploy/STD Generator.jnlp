@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="STD Generator.jnlp">
+  <information>
+    <title>STD Generator</title>
+    <vendor>Oberthur Technologies</vendor>
+    <description>FSI Tools</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="com.oberthur.fsi.tools.Main"  name="FSI Tools" />
+  <update check="background"/>
+</jnlp>
